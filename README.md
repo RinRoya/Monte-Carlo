@@ -1,8 +1,8 @@
-# Monte-Carlo
+# Monte Carlo
 Implementasi Algoritma Monte Carlo
 Terdapat 2 tampilan, yaitu per blok punya dan 1 blok penuh
 
-Algoritma ini digunakan untuk menghitung pendekatan nilai integral. Dalam kasus ini dilakukan pendekatan untuk fungsi $g(x)=sin(x)$
+Algoritma ini digunakan untuk menghitung pendekatan nilai integral. Dalam kasus ini dilakukan pendekatan untuk fungsi `g(x)=sin(x)`
 ### Source Code
 [Lihat di Sini](https://github.com/RinRoya/Monte-Carlo/blob/main/Monte-Carlo.ipynb)
 
